@@ -1,0 +1,16 @@
+{
+  "nome": "Gabriel Martinello",
+  "email": "gabriel.martinello@voll.med",
+  "telefone": "46991360985",
+  "crm": "123456",
+  "especialidade": "cardiologia",
+  "endereco": {
+    "logradouro": "rua 1",
+    "bairro": "bairro",
+    "cep": "12345678",
+    "cidade": "Brasilia",
+    "uf": "DF",
+    "numero": "1",
+    "complemento": "complemento"
+  }
+}
